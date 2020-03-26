@@ -1,0 +1,10 @@
+{
+  "name": "jaccard-similarity",
+  "version": "1.0.0",
+  "description": "Computing Jaccard similarity with Redis sets.",
+  "author": "Guy Royse <guy@guyroyse.com>",
+  "private": true,
+  "dependencies": {
+    "ioredis": "^4.16.0"
+  }
+}
